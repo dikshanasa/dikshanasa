@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diksha Nasa</h1>
-<h3 align="center">A Computer Science and business systems student</h3>
+<h3 align="center">A Computer Science and Business Systems student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshanasa&label=Profile%20views&color=0e75b6&style=flat" alt="dikshanasa" /> </p>
 
